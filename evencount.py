@@ -8,5 +8,5 @@ while i<=n :
     else:
         b=b+1
     i=i+1    
-print(" even number between 1 to",n,"is",a)
-print(" odd number between 1 to",n,"is",b)
+print(" even number between 1 to",n,"is ",a)
+print(" odd number between 1 to",n,"is ",b)
